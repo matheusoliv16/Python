@@ -164,5 +164,4 @@ def game():
 # Bloco main
 if __name__ == "__main__":
     game()
-    print("\nParabéns. Você está aprendendo programação em Python com a DSA. :)\n")
 
